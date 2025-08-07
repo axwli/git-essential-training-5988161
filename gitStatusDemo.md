@@ -1,4 +1,2 @@
-this is content
-
-this is an extra line
+This is a new line, this is a change.
 
